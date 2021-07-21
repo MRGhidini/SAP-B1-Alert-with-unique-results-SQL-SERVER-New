@@ -14,7 +14,7 @@ Imagine that the client does not want to receive the same result every time the 
 
 # Usage
 
-1 - First, open the "Query Manager" , execute the query "1-AddTemporaryTable.sql" so that the table is created and fed with all existing records.
+1 - First, open the "Query Manager" or "SQL management studio", execute the query "1-AddTemporaryTable.sql" so that the table is created and fed with all existing records.
 
 ![Screenshot](img/1.png)
 
