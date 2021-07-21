@@ -32,8 +32,8 @@ Whenever a new record is added, the alert will be activated showing only once, o
 
 * Adding a new purchase request
 
-![Screenshot](img/4-1.png)
+![Screenshot](img/4.png)
 
 * Receiving alert
 
-![Screenshot](img/4-2.png)
+![Screenshot](img/5.png)
